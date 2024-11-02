@@ -1,6 +1,6 @@
 .DS_Store
 .auctex-auto
+.orgids
 *.org
 *.bib
 !citations.bib
-!org-roam.org

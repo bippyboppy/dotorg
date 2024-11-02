@@ -1,6 +1,0 @@
-#+TITLE: org-roam
-#+AUTHOR: oddfeed
-#+BIBLIOGRAPHY: ~/Documents/dotorg/citations.bib
-
-
-* Footnotes
