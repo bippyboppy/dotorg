@@ -2,6 +2,7 @@ const username = "oddfeed";
 const repoName = "dotorg";
 const branch = "main";
 let cachedFiles = [];
+
 async function fetchFiles() {
   const apiUrl = `https://api.github.com/repos/${username}/${repoName}/git/trees/${branch}?recursive=1`;
 
@@ -40,7 +41,9 @@ async function fetchFileContent(path) {
 }
 
 function extractTag(fileData) {
-  const tagMatch = fileData.match(/:([a-zA-Z]+):/);
+  const tagMatch = fileData.match(
+    /<span class="tag">.*?<span.*?>(.*?)<\/span><\/span>/,
+  );
   return tagMatch ? tagMatch[1] : null;
 }
 
@@ -78,6 +81,19 @@ function populateTagFilter(fileArray) {
     option.textContent = tag;
     folderFilter.appendChild(option);
   });
+}
+
+function filterAndSearchFiles() {
+  const searchQuery = document.getElementById("searchBar").value.toLowerCase();
+  const selectedTag = document.getElementById("folderFilter").value;
+
+  const filteredFiles = cachedFiles.filter((file) => {
+    const matchesSearch = file.name.toLowerCase().includes(searchQuery);
+    const matchesTag = selectedTag ? file.tag === selectedTag : true;
+    return matchesSearch && matchesTag;
+  });
+
+  renderFileList(filteredFiles);
 }
 
 document
