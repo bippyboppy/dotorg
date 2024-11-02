@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       9aa6816e-42a1-47d0-9755-b0a6cc9e9519
+:END:
+#+title: predictions
+#+AUTHOR: oddfeed
+#+BIBLIOGRAPHY: ~/Documents/dotorg/citations.bib
+#+TODO: WAIT INCORRECT | CORRECT
+#+OPTIONS: toc:1
+
+* Technology
+
+* Politics [0/1][0%]
+** WAIT Kamala will win
+- 02-11-24
