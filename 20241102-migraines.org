@@ -11,7 +11,7 @@
 - Visual disturbances proceed pain
 - Sometiems called migraine with aura
 
-* Causes [fn:1]
+* Causes
 1. Stress
 2. Hormones (especially estrogen)
 3. Caffeine
@@ -20,7 +20,7 @@
 6. Screen time
 7. Eye strain
 
-* Prevention [fn:2]
+* Prevention
 - Identify and avoid triggers
 - Triptans
 - beta blockers
@@ -30,12 +30,7 @@
   - FL-41 tint (rose tinted)
 
 
-* Prognosis/outcome [fn:3]
+* Prognosis/outcome
 - Typically symptoms get worse in the first few years
 - Many people find that they decrease in intensity after age 40
 - Most people have episodic migraines, which occur less than 15 days per month. A smaller percentage develop chronic migraines, experiencing them 15 or more days per month.
-
-* Footnotes
-[fn:3] [cite:@4o]
-[fn:2] [cite:@4o_Search]
-[fn:1] [cite:@4o]

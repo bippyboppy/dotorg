@@ -3,7 +3,6 @@
 :END:
 #+title: Productivity
 #+AUTHOR: oddfeed
-#+BIBLIOGRAPHY: ~/Documents/dotorg/citations.bib
 
 * Brain resets, risks and statistics [fn:1]
 Though SBF proved controversial he was incredibly effective and productive, it seems like it can be boiled down to three major things
@@ -13,7 +12,7 @@ Though SBF proved controversial he was incredibly effective and productive, it s
 
 * Misc pieces of advice
 - If you're tired do it tired
--
+
 * Footnotes
 
-[fn:1] [cite:@Crypto_Crackup]
+[fn:1] From the book "crypto crackup"
