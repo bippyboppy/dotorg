@@ -1,7 +1,0 @@
-#+title: Org Guide
-#+BIBLIOGRAPHY: citations.bib
-
-
-
-
-#+print_bibliography:

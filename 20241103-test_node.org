@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       8813e269-327d-42c1-894a-d05139066e1b
-:END:
-#+title: test node
-simple test node
