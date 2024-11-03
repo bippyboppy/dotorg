@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       ef12a7f8-2148-44f6-840d-6874df262c0f
+:END:
+#+title: org-roam
+#+AUTHOR: oddfeed
+#+BIBLIOGRAPHY: ~/Documents/dotorg/citations.bib
+Org roam is an additional package to [[id:ba04adc5-d483-41ec-b793-421020a474cb][emacs]] (I use doom emacs) that allows roam like features in org files
+
+
+* Basic usage :emacs:
+org-id-get-create
+org-roam-alias-add
+
+
+* Footnotes

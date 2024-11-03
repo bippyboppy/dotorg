@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       6ba396fa-3b5a-462f-acb4-def1b4fda4d7
+:END:
+#+title: Buddhism
+#+AUTHOR: oddfeed
+#+BIBLIOGRAPHY: ~/Documents/dotorg/citations.bib
+
+* Zen buddhism
+:PROPERTIES:
+:ID:       de5c6ba8-d916-42eb-a94a-3d7a0e560f16
+:END:
+* Tibetan buddhism
+:PROPERTIES:
+:ID:       6540080e-5e0c-43a2-8657-cff9e848431b
+:END:
+* Theravada buddhism
+:PROPERTIES:
+:ID:       b0ab1ea9-d223-4282-ac93-2973ec9fcdd5
+:END:
+* Pure land buddhism
+:PROPERTIES:
+:ID:       6911007f-0e5b-4641-a5a2-6ac5788e4f20
+:END:

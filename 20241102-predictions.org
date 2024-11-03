@@ -7,8 +7,8 @@
 #+TODO: INCORRECT | CORRECT
 #+OPTIONS: toc:1
 
-* Technology [/] [%]
+* Technology [0/0] [0%]
 ** AI will be to stupid people what glasses are to poorsighted people
 * Politics [0/0][0%]
 ** Kamala will win
-- 02-11-24
+- prediction made on 02-11-24

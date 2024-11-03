@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f3f39727-f99b-4b8f-b615-57b4c74fb54b
+:END:
+#+title: Productivity
+#+AUTHOR: oddfeed
+#+BIBLIOGRAPHY: ~/Documents/dotorg/citations.bib
+
+* Brain resets, risks and statistics [fn:1]
+Though SBF proved controversial he was incredibly effective and productive, it seems like it can be boiled down to three major things
+1. Hard work needing hard rest, every 50 minutes of hard work you should spend 10 minutes relaxed trying to fall asleep
+2. Risk tolerance, You need to be willing to take risks because it yields larger potential upside
+3. Ignore noise, You need to reduce humanity and instead reduce choices down to (as much as possibly) mathmatics, using game theory and bayesian statistics.
+
+* Misc pieces of advice
+- If you're tired do it tired
+-
+* Footnotes
+
+[fn:1] [cite:@Crypto_Crackup]

@@ -1,5 +1,3 @@
 .DS_Store
 .auctex-auto
-.orgids
-*.org
-!20241102-predictions.org
+daily/

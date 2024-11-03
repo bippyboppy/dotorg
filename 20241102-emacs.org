@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       ba04adc5-d483-41ec-b793-421020a474cb
+:END:
+#+title: emacs
+#+AUTHOR: oddfeed
+#+BIBLIOGRAPHY: ~/Documents/dotorg/citations.bib
+Emacs is a popular text editor
+- [[id:ef12a7f8-2148-44f6-840d-6874df262c0f][org-roam]]

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       6a901a16-af58-4a00-b9fd-689f84db905d
+:END:
+#+title: Journalling
+#+AUTHOR: oddfeed
+#+BIBLIOGRAPHY: ~/Documents/dotorg/citations.bib
+* Practical journal
+- Emacs with roam dailies
+  - Feed into AI for interactions[fn:1]
+* Personal journal
+- Physical
+
+* Footnotes
+
+[fn:1] gpt4all is free, local, open source and offers rag out of the box
