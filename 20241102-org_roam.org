@@ -7,9 +7,8 @@
 Org roam is an additional package to [[id:ba04adc5-d483-41ec-b793-421020a474cb][emacs]] (I use doom emacs) that allows roam like features in org files
 
 
-* Basic usage :emacs:
-org-id-get-create
-org-roam-alias-add
-
-
-* Footnotes
+* Basic usage
+- org-id-get-create
+- org-roam-alias-add
+* Org-roam-ui
+- Org-roam-ui is a web frontend for org-roam graphs, if you're reading this you're reading it on an example of a public org-roam graph
