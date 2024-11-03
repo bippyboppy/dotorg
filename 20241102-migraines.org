@@ -5,8 +5,9 @@
 #+AUTHOR: oddfeed
 #+BIBLIOGRAPHY: ~/Documents/dotorg/citations.bib
 #+BIBLIOGRAPHY: ~/Documents/dotorg/health.bib
+[[id:63d2e430-7897-4a94-b47d-1056242cbdf5][health]]
 
-* Classical migraine :health:
+* Classical migraine
 - Visual disturbances proceed pain
 - Sometiems called migraine with aura
 
