@@ -4,11 +4,11 @@
 #+title: predictions
 #+AUTHOR: oddfeed
 #+BIBLIOGRAPHY: ~/Documents/dotorg/citations.bib
-#+TODO: WAIT INCORRECT | CORRECT
+#+TODO: INCORRECT | CORRECT
 #+OPTIONS: toc:1
 
-* Technology
-
-* Politics [0/1][0%]
-** WAIT Kamala will win
+* Technology [/] [%]
+** AI will be to stupid people what glasses are to poorsighted people
+* Politics [0/0][0%]
+** Kamala will win
 - 02-11-24
