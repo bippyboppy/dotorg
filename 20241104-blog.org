@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       a72d2142-65cc-44b6-8135-0829ccfae949
+:END:
+#+title: blog
