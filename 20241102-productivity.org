@@ -4,7 +4,7 @@
 #+title: Productivity
 #+AUTHOR: oddfeed
 
-* Brain resets, risks and statistics [fn:1]
+* Brain resets, risks and statistics
 Though SBF proved controversial he was incredibly effective and productive, it seems like it can be boiled down to three major things
 1. Hard work needing hard rest, every 50 minutes of hard work you should spend 10 minutes relaxed trying to fall asleep
 2. Risk tolerance, You need to be willing to take risks because it yields larger potential upside
@@ -12,7 +12,3 @@ Though SBF proved controversial he was incredibly effective and productive, it s
 
 * Misc pieces of advice
 - If you're tired do it tired
-
-* Footnotes
-
-[fn:1] From the book "crypto crackup"
