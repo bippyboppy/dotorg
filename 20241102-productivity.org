@@ -12,3 +12,7 @@ Though SBF proved controversial he was incredibly effective and productive, it s
 
 * Misc pieces of advice
 - If you're tired do it tired
+
+* Device Tweaks
+- on iphone go to accessability settings, color filters then set greyscale, then turn on the shortcut (triple press power button)
+- on mac go system settings, accessability, display, then turn on greyscale, then shortcuts tick only color filter then use option+command+f5

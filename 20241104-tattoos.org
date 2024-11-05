@@ -3,6 +3,8 @@
 :END:
 #+title: tattoos
 
+* good vs bad tattoos
+* long term care
 
 * Aftercare
 ** Second skin
@@ -12,9 +14,14 @@ second skin is a wrap product usually applied after the tattoo, it has several m
 3. It keeps it hydrated without smothering it.
 4. If you apply a new second skin it keeps bacteria off your tattoo for the first 5 days
 
-** Dove Beauty Bar
+** Dove Beauty Bar (sensitive skin)
+In certain parts of the UK the dove beauty bar is vegan (look for peta vegan certified on the back), it's cheap, non-irritating and effective - one misconception is most soap however does not kill bacteria, it washes it off you, key difference. DBB also has a moisturiser in it - after the 2nd second skin comes off use this 1-2 times daily to keep your tattoo clean and soft.
 
 ** Aloe Vera
+Aloe vera is incredibly cheap, moisturising and most importantly mildly[fn:2] anti bacterial and anti fungal, you should apply this at your own discreation to keep you tattoo moisturised but without smothering it
 
+* Footnotes
 
 [fn:1]after 24 hours you should take it off, clean the tattoo, dry it, then reapply new second skin for an additional 3-5 days.
+
+[fn:2]you only want a mild anti bacterial action otherwise you end up with irritation and tattoo damage
