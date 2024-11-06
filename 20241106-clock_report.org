@@ -2,9 +2,19 @@
 :ID:       0f054716-46c8-4f9b-9e19-615f2d9f0f04
 :END:
 #+title: clock report
-#+BEGIN: clocktable :scope agenda :maxlevel 2
-#+CAPTION: Clock summary at [2024-11-06 Wed 20:55]
-| File | Headline         | Time   |
-|------+------------------+--------|
-|      | ALL *Total time* | *0:00* |
+[[id:ba04adc5-d483-41ec-b793-421020a474cb][emacs]], [[id:f3f39727-f99b-4b8f-b615-57b4c74fb54b][Productivity]]
+
+- Expect a minimum of 51% accuracy in my logged times, as I don’t track everything compulsively.
+
+
+#+BEGIN: clocktable :scope agenda :maxlevel 2 :block 2024 :step month :tags t :skip0 t :stepskip0 t :fileskip0 t
+
+Monthly report starting on: [2024-11-01 Fri]
+| File      | Tags    | Headline              | Time   |
+|-----------+---------+-----------------------+--------|
+|           | ALL     | *Total time*          | *0:13* |
+|-----------+---------+-----------------------+--------|
+| inbox.org |         | *File time*           | *0:13* |
+|           | reading | finish pure land book | 0:13   |
+
 #+END:
