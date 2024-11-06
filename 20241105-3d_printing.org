@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       91363f9a-95f2-4a16-955d-2d376157b03b
+:END:
+#+title: 3d printing
+- Printing slow is safer and higher quality

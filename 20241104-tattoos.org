@@ -7,7 +7,13 @@
 * long term care
 
 * Aftercare
+:PROPERTIES:
+:ID:       c5d41ec7-4438-4b50-8c4d-df99a7e2a5ea
+:END:
 ** Second skin
+:PROPERTIES:
+:ID:       61a0c51a-30b0-47e3-863a-2704436118fc
+:END:
 second skin is a wrap product usually applied after the tattoo, it has several major advantages
 1. Due to keeping the plasma on the tattoo it speeds up healing (reducing it by 30-60%)
 2. It keeps it covered for the first 24 hours (which is when you're most likely to get infected)[fn:1]

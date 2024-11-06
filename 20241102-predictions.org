@@ -3,7 +3,6 @@
 :END:
 #+title: predictions
 #+AUTHOR: oddfeed
-#+BIBLIOGRAPHY: ~/Documents/dotorg/citations.bib
 #+TODO: INCORRECT | CORRECT
 #+OPTIONS: toc:1
 
