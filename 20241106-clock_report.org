@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       0f054716-46c8-4f9b-9e19-615f2d9f0f04
+:END:
+#+title: clock report
+#+BEGIN: clocktable :scope agenda :maxlevel 2
+#+CAPTION: Clock summary at [2024-11-06 Wed 20:55]
+| File | Headline         | Time   |
+|------+------------------+--------|
+|      | ALL *Total time* | *0:00* |
+#+END:
