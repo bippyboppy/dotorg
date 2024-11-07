@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       8bcf03fc-db76-4d99-9f7f-dfb6350076f1
+:END:
+#+title: oura test
+[[id:63d2e430-7897-4a94-b47d-1056242cbdf5][health]]
+
+- I want to test if oura sleep/readiness correlates with my subjective experience
+
+| Entry | Self-R | Self-S | Readiness | Sleep |
+| ----- | ------ | ------ | --------- | ----- |
+| 01    | 85     | 90     | 82        | 80    |
+| 02    | 70     | 75     | 83        | 68    |
+| 03    | 45     | 50     | 88        | 81    |
+| 04    | 70     | 65     | 76        | 84    |
+| 05    | 80     | 75     | 82        | 75    |
+| 06    | 85     | 80     | 78        | 86    |
+| 07    | 80     | 80     | 90        | 84    |

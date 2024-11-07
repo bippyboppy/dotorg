@@ -2,8 +2,7 @@
 :ID:       4fdb76ef-c849-4ab8-8d4d-ca01fd0dadbb
 :END:
 #+title: Crypto Crackup
-[[id:408af805-2a4e-4ebf-ba04-9509114c273a][books]]
-
+[[id:eb0fca17-4809-4c48-a947-2d46b8a4f9f9][books-cryptocurrency]]
 * Highlights
 - One of the earliest traits Trabucco would recall about Sam is that he appeared to almost “barely” sleep while at camp, a habit he seems to have maintained into adulthood
 
