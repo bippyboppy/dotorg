@@ -10,11 +10,14 @@
 #+BEGIN: clocktable :scope agenda :maxlevel 2 :block 2024 :step month :tags t :skip0 t :stepskip0 t :fileskip0 t
 
 Monthly report starting on: [2024-11-01 Fri]
-| File      | Tags    | Headline              | Time   |
-|-----------+---------+-----------------------+--------|
-|           | ALL     | *Total time*          | *0:13* |
-|-----------+---------+-----------------------+--------|
-| inbox.org |         | *File time*           | *0:13* |
-|           | reading | finish pure land book | 0:13   |
+| File       | Tags    | Headline              | Time   |
+|------------+---------+-----------------------+--------|
+|            | ALL     | *Total time*          | *0:25* |
+|------------+---------+-----------------------+--------|
+| habits.org |         | *File time*           | *0:05* |
+|            |         | Meditation            | 0:05   |
+|------------+---------+-----------------------+--------|
+| inbox.org  |         | *File time*           | *0:20* |
+|            | reading | finish pure land book | 0:20   |
 
 #+END:
