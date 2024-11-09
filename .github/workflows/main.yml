@@ -17,4 +17,6 @@ jobs:
         uses: ikoamu/publish-org-roam-ui@main
         with:
           org-roam-db-filename: roam.db
+          site-title: dotORG
+          default-section-open: false
           deploy-to-pages: true
