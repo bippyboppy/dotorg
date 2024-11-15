@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       45d93c00-7c61-4676-be6b-f1ab788d6c68
+:END:
+#+title: scratch
+#+STARTUP: content

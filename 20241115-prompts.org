@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       2aab7af4-5cfc-436d-b2e2-4f95e4adbf6a
+:END:
+#+title: prompts
+Based on the provided files and the context of previous interactions, here’s an intelligence report summarizing traits, motivations, behaviors, risks, and vulnerabilities:

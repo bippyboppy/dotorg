@@ -12,17 +12,17 @@
 Monthly report starting on: [2024-11-01 Fri]
 | File             | Tags    | Headline              |   Time |      |
 |------------------+---------+-----------------------+--------+------|
-|                  | ALL     | *Total time*          | *1:00* |      |
+|                  | ALL     | *Total time*          | *1:12* |      |
 |------------------+---------+-----------------------+--------+------|
 | 11-24-Github.org |         | *File time*           | *0:01* |      |
 |                  |         | htacess               |   0:01 |      |
 |------------------+---------+-----------------------+--------+------|
-| habits.org       |         | *File time*           | *0:39* |      |
-|                  |         | Exercise              |   0:21 |      |
+| habits.org       |         | *File time*           | *0:51* |      |
+|                  |         | Exercise              |   0:30 |      |
 |                  |         | \_  Running           |        | 0:14 |
-|                  |         | \_  Strength Training |        | 0:07 |
+|                  |         | \_  Strength Training |        | 0:16 |
 |                  |         | Meditation            |   0:05 |      |
-|                  |         | Reading               |   0:13 |      |
+|                  |         | Reading               |   0:16 |      |
 |------------------+---------+-----------------------+--------+------|
 | inbox.org        |         | *File time*           | *0:20* |      |
 |                  | reading | finish pure land book |   0:20 |      |

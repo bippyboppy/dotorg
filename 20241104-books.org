@@ -5,22 +5,22 @@
 books I've read
 
 
-* books-cryptocurrency
+* cryptocurrency :books:
 :PROPERTIES:
 :ID:       eb0fca17-4809-4c48-a947-2d46b8a4f9f9
 :END:
 
-* books-politics
+* politics :books:
 :PROPERTIES:
 :ID:       0b089dce-64df-4066-8bd5-3a401de0b097
 :END:
 
-* books-buddhism
+* buddhism :books:
 :PROPERTIES:
 :ID:       c78a8647-2579-4b31-b1d9-0311d360f7cd
 :END:
 
-* books-psychology
+* psychology :books:
 :PROPERTIES:
 :ID:       9e509e03-9480-4edc-aaf2-c343330dd082
 :END:
