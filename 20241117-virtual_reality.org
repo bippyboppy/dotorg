@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0198381e-91de-4732-8709-b570c463c244
+:END:
+#+title: Virtual Reality
+
+
+* Working in virtual reality
+:PROPERTIES:
+:ID:       8ed9d33b-5ae8-490a-b84b-5c3cf065343a
+:END:
+Working in vr seems to have pretty big advantages such as allowing social working or priming your brain to a certain set of conditions, as I'm writing this I'm sat in a cabin in effectively the middle of nowhere, not only that but the use of coworking is long and documented, the reason a lot of people work in starbucks is because it does pretty significantly improve not just productivity but the actual quality of your work.

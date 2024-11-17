@@ -8,11 +8,12 @@
 
 * Technology [0/0] [0%]
 ** AI will be to stupid people what glasses are to poorsighted people
-* Sports [0/0][0%]
-** Jake paul wins against mike tyson
+* Sports [1/1][100%]
+** CORRECT Jake paul wins against mike tyson
 
 * Politics [0/1][0%]
 ** INCORRECT Kamala will win (02-11-24)
 * Stocks [1/1][100%]
 ** CORRECT If trump wins TSLA and DJT will pump from current value (243.75/28.76)
 ** INVALID If kamala wins there will be a broad drop in the tech sector for a short period of time
+** NIO $3.5 22 Nov 24 (W) Call (0.99 Premium)
