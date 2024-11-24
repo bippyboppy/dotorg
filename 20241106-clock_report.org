@@ -10,21 +10,26 @@
 #+BEGIN: clocktable :scope agenda :maxlevel 2 :block 2024 :step month :tags t :skip0 t :stepskip0 t :fileskip0 t
 
 Monthly report starting on: [2024-11-01 Fri]
-| File             | Tags    | Headline              |   Time |      |
-|------------------+---------+-----------------------+--------+------|
-|                  | ALL     | *Total time*          | *1:12* |      |
-|------------------+---------+-----------------------+--------+------|
-| 11-24-Github.org |         | *File time*           | *0:01* |      |
-|                  |         | htacess               |   0:01 |      |
-|------------------+---------+-----------------------+--------+------|
-| habits.org       |         | *File time*           | *0:51* |      |
-|                  |         | Exercise              |   0:30 |      |
-|                  |         | \_  Running           |        | 0:14 |
-|                  |         | \_  Strength Training |        | 0:16 |
-|                  |         | Meditation            |   0:05 |      |
-|                  |         | Reading               |   0:16 |      |
-|------------------+---------+-----------------------+--------+------|
-| inbox.org        |         | *File time*           | *0:20* |      |
-|                  | reading | finish pure land book |   0:20 |      |
+| File             | Tags    | Headline                        |   Time |      |
+|------------------+---------+---------------------------------+--------+------|
+|                  | ALL     | *Total time*                    | *8:45* |      |
+|------------------+---------+---------------------------------+--------+------|
+| 11-24-Github.org |         | *File time*                     | *0:01* |      |
+|                  |         | htacess                         |   0:01 |      |
+|------------------+---------+---------------------------------+--------+------|
+| habits.org       |         | *File time*                     | *8:10* |      |
+|                  |         | Exercise                        |   6:33 |      |
+|                  |         | \_  Running                     |        | 0:14 |
+|                  |         | \_  Strength Training           |        | 0:16 |
+|                  |         | \_  Hiking                      |        | 6:03 |
+|                  |         | Meditation                      |   0:05 |      |
+|                  |         | Reading                         |   1:32 |      |
+|------------------+---------+---------------------------------+--------+------|
+| inbox.org        |         | *File time*                     | *0:20* |      |
+|                  | reading | finish pure land book           |   0:20 |      |
+|------------------+---------+---------------------------------+--------+------|
+| reading24.org    |         | *File time*                     | *0:14* |      |
+|                  |         | Philosophy [0/1][0%]            |   0:14 |      |
+|                  |         | \_  Dune and philosophy, Decker |        | 0:14 |
 
 #+END:
