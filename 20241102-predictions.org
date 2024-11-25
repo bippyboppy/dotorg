@@ -2,23 +2,11 @@
 :ID:       9aa6816e-42a1-47d0-9755-b0a6cc9e9519
 :END:
 #+title: predictions
-#+AUTHOR: oddfeed
-#+TODO: INCORRECT | CORRECT
-#+OPTIONS: toc:1
 
 This is a more long term form of the calibration concept from the scout mindset[fn:1], Basically your confidence should correlate strongly to how correct you are because being overconfident or underconfident is costly.
 
----
-
-* 2024
-* 55% Confidence [/] [%]
-* 65% Confidence [/] [%]
-* 75% Confidence [/] [%]
-* 85% Confidence [0/1] [0%]
-** INCORRECT Kamala will win (02-11-24)
-* 95% Confidence [2/2] [100%]
-** CORRECT Jake paul wins against mike tyson
-** CORRECT If trump wins TSLA and DJT will pump from current value (243.75/28.76)
+* Previous
+- [[id:2c5aa45d-ba13-4d05-80df-644438aaffbf][predictions 2024]]
 
 * Footnotes
 
